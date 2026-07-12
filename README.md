@@ -1,4 +1,4 @@
-# MobiusEngine
+# Mobius Engine
 
 This engine is a type of library to include in any C++ or C# project
 
